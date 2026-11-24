@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System.Windows.Media;
 
-namespace CF_Dialog_Example
+namespace WPF_Dialog_ColorFont_Ex
 {
 	public partial class MainWindow : Window
 	{

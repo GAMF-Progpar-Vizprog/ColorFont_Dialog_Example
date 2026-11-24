@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Dialog_Example
+namespace WPF_Dialog_ColorFont_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
